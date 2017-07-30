@@ -4,6 +4,8 @@
   <test name="Test">
     <classes>
       <class name="testcase.TC_001"/>
+            <class name="testcase.TC_002"/>
+                  <class name="testcase.TC_003"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
